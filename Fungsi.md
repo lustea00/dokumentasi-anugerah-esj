@@ -1,11 +1,22 @@
 # List File PHP
 
-- # mysite
-  - # code
-    > # TestingPage.php
+> # mysite/code
+ -  > # TestingPage.php
     #
-    - Login()
-      - [ ] Digunakan untuk validasi user yang login lewat aplikasi
+    > ## Login()
+        Validasi user yang login lewat aplikasi
     #
-    - getDepo()
-      - [ ] Digunakan untuk mendapatkan list depo yang tersedia untuk user yang sudah login
+    > ## getDepo()
+        Mendapatkan list depo yang tersedia untuk user yang sudah login
+    #
+    > ## insertDataESJ()
+        Memasukan data esj baru
+    #
+    > ## updateDataESJ()
+        Memasukan data esj baru
+    #
+    > ## updateDataESJ()
+        Memperbarui data esj yang sudah ada
+    #
+    > ## getDataESJ()
+        Mendapatkan data esj yang sudah ada
